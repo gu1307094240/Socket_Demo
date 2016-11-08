@@ -1,2 +1,1 @@
-# test
-*just for test*
+一个关于socket通信的demo，自己学习的小例子
